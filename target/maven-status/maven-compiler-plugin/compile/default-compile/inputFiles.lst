@@ -7,6 +7,7 @@
 /home/luisnovaes/Área de Trabalho/docker-java-mongo/api-java-mongoDB/src/main/java/com/api/payload/request/SignupRequest.java
 /home/luisnovaes/Área de Trabalho/docker-java-mongo/api-java-mongoDB/src/main/java/com/api/repository/UserRepository.java
 /home/luisnovaes/Área de Trabalho/docker-java-mongo/api-java-mongoDB/src/main/java/com/api/security/WebSecurityConfig.java
+/home/luisnovaes/Área de Trabalho/docker-java-mongo/api-java-mongoDB/src/main/java/config/MongoConfig.java
 /home/luisnovaes/Área de Trabalho/docker-java-mongo/api-java-mongoDB/src/main/java/com/api/models/ERole.java
 /home/luisnovaes/Área de Trabalho/docker-java-mongo/api-java-mongoDB/src/main/java/com/api/controllers/TestController.java
 /home/luisnovaes/Área de Trabalho/docker-java-mongo/api-java-mongoDB/src/main/java/com/api/models/Role.java
